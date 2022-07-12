@@ -1,0 +1,18 @@
+<h1>Useful facts about Minecraft java</h1>
+<br/>
+
+<p>
+1. If you've ever worried about fuel for cooking in Minecraft, don't worry. All you need is 3 wood, 3 sticks and 1 coal to make a campfire, through which
+ you can cook items by placing the food on the campfire. If you've accidentally extinguished it, all you need is a silk touch pickaxe or a flint and steel. 
+<br/>
+<br/>
+2. There is also a way to get already cooked food. We do this by using flint and steel on the animals. Eventually it will break, but it is still useful.
+<br/>
+<br/>
+3. If you've always kept thinking that smelting ores in Minecraft takes too long, Always use a blast furnace. You can craft one if you have
+ 3 smooth stone, 5 iron ingots, and 1 furnace.
+<br/>
+<br/>
+4. Have you ever thought that having to craft new tools because the old ones broke? Well, don't worry. If you have 2 oak planks, 2 sticks, and 1 stone 
+slab, you can craft grindstone, through which you can repair your tools.
+</p> 
