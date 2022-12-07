@@ -1,0 +1,42 @@
+<h1>
+Gamer chat room
+</h1>
+<h2>
+Hello everyone! Welcome to my chat room. Here, you and all other vediogame players can connect and 
+chat online! You can share doubts, hacks, and even world records. This is a really fun space!
+</h2>
+<hr/>
+<h3>
+Minecraft
+</h3>
+<h4>
+<a href="https://tenor.com/hi/view/rick-roll-rick-ashley-never-gonna-give-you-up-gif-22113173"> Minecraft chat room</a>
+</h4>
+<hr/>
+<h3>
+Roblox
+</h3>
+<h4>
+<a href="https://tenor.com/hi/view/rick-roll-rick-ashley-never-gonna-give-you-up-gif-22113173"> Roblox chat room</a>
+</h4>
+<hr/>
+<h3>
+Fortnite
+</h3>
+<h4>
+<a href="https://tenor.com/hi/view/rick-roll-rick-ashley-never-gonna-give-you-up-gif-22113173"> Fortnite chat room</a>
+</h4>
+<hr/>
+<h3>
+GTA5
+</h3>
+<h4>
+<a href="https://tenor.com/hi/view/rick-roll-rick-ashley-never-gonna-give-you-up-gif-22113173"> GTA5 chat rom</a>
+</h4>
+<hr/>
+<h3>
+Genshin impact
+</h3>
+<h4>
+<a href="https://tenor.com/hi/view/rick-roll-rick-ashley-never-gonna-give-you-up-gif-22113173"> Genshin impact chat room</a>
+</h4>
